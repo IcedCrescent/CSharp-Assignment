@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Data Type\Basic - Data Type\bin\Debug\Basic - Data Type.exe
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Data Type\Basic - Data Type\bin\Debug\Basic - Data Type.pdb
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Data Type\Basic - Data Type\obj\Debug\Basic - Data Type.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Data Type\Basic - Data Type\obj\Debug\Basic - Data Type.exe
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Data Type\Basic - Data Type\obj\Debug\Basic - Data Type.pdb

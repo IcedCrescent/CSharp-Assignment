@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Numbers\Basic - Numbers\bin\Debug\Basic - Numbers.exe
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Numbers\Basic - Numbers\bin\Debug\Basic - Numbers.pdb
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Numbers\Basic - Numbers\obj\Debug\Basic - Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Numbers\Basic - Numbers\obj\Debug\Basic - Numbers.exe
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - Numbers\Basic - Numbers\obj\Debug\Basic - Numbers.pdb

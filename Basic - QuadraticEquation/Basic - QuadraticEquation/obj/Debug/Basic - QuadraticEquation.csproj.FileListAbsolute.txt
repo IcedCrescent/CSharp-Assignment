@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - QuadraticEquation\Basic - QuadraticEquation\bin\Debug\Basic - QuadraticEquation.exe
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - QuadraticEquation\Basic - QuadraticEquation\bin\Debug\Basic - QuadraticEquation.pdb
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - QuadraticEquation\Basic - QuadraticEquation\obj\Debug\Basic - QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - QuadraticEquation\Basic - QuadraticEquation\obj\Debug\Basic - QuadraticEquation.exe
+C:\Users\Admin\Desktop\Bai Tap C#\Basic - QuadraticEquation\Basic - QuadraticEquation\obj\Debug\Basic - QuadraticEquation.pdb
